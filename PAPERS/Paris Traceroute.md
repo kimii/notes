@@ -24,4 +24,4 @@
 				1. UDP 探测包： 设置 checksum 字段，修改 payload 来生成一致的 checksum
 				2. ICMP 探测包： 设置 ICMP identifier 和 sequence number 保持所有到目标的头部校验和一致 
 			3. traceroute 探测方式头部对比图
-				- ![image](../pics/traceroute-packet-headers-cmp.png)
+				- ![image](https://github.com/kimii/notes/blob/master/PAPERS/pics/traceroute-packet-headers-cmp.png)
