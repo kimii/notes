@@ -1,4 +1,4 @@
-# [Prais Traceroute](https://paris-traceroute.net/about/)
+# [Paris Traceroute](https://paris-traceroute.net/about/)
 1. 路由器传播流量的政策(负载均衡的策略)
 	1. per-packet
 		- 只在乎保持均衡
