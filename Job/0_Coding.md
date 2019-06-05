@@ -79,4 +79,7 @@ void addToTail(ListNode** pHead, int value)
 
 ```
 
+### python 
+1. 动态执行 exec/eval 使用
+
 
